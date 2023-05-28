@@ -71,7 +71,7 @@ install_stage=(
     xfce4-settings
     nwg-look-bin
     sddm-git 
-    sddm-sugar-candy-git
+    sddm-catppuccin-git
 )
 
 for str in ${myArray[@]}; do
